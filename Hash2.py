@@ -1,3 +1,4 @@
+# 전화번호 목록
 def solution(phone_book):
     # 문자열 값에 따라 정렬
     phone_book.sort()
