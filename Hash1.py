@@ -1,3 +1,4 @@
+# 완주하지 못한 선수
 def solution(participant, completion):
     # 해시값의 총 합을 저장할 변수
     tmp = 0
